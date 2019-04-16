@@ -1,2 +1,1 @@
 # cdn.pirati.cz
-TEST
