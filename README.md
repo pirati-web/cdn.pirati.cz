@@ -1,3 +1,3 @@
 # cdn.pirati.cz
 
-staticka data
+sdilena staticka data
